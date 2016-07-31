@@ -1,4 +1,4 @@
-package com.example.administrator.sqliteapplication;
+package com.example.administrator.sqliteapplication.database;
 
 import android.provider.BaseColumns;
 
